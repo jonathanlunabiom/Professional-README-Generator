@@ -1,6 +1,6 @@
-# Movie night
+# Movie Night
 
-[asdsd](sdaas)
+[MIT License](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 - [Description](#description)
@@ -13,29 +13,29 @@
 
 ## Description <br/>
 
-sdsd
+Movie Planner is designed to add an extra layer of enjoyment to your movie nights. It's a simple and entertaining application that lets you explore new cocktail recipes and discover movies you might have never considered watching before. Whether you're hosting a movie night with friends or just relaxing alone, Movie Planner is here to make your movie experience even more delightful.
 
 ## Instructions <br/>
 
-dsds
+Lauch app and the app will prompt...
 
 ## Usage <br/>
 
-dsdsd
+N/A
 
 ## Contribution <br/>
 
-dsada
+N/A
 
 ## Test <br/>
 
-![Movie night](https://www.creativefabrica.com/wp-content/uploads/2022/05/05/1651781912/Movie-Night-black-version-580x386.jpg)
+![Movie Night]()
 
 ## License <br/>
 
-Movie night was release under the [asdsd](sdaas).
+Movie Night was release under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## ¿Questions? <br/>
 
-Github: dsadas <br/>
-Email: dsadas
+Github: https://github.com/jonathanlunabiom <br/>
+Email: jonny-luna@hotmail.com
