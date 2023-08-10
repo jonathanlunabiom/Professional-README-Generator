@@ -24,7 +24,7 @@ This node app has the objective of bringing you a easy way to generate your own 
 
 ## Video
 
-<!-- link -->
+[Demo Video](https://www.youtube.com/watch?v=hkO6brRLmjU)
 
 ## License
 
