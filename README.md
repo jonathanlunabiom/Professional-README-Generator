@@ -19,7 +19,7 @@ This node app has the objective of bringing you a easy way to generate your own 
 3. On the terminal you should enter the next command line "node index.js" to run the index file.
 4. The terminal will prompt some parameters your app will have.
 5. Enter each answer in order to complete your README.
-6. Once you finished the terminal will log a message "README created"
+6. Once you finished the terminal will log a message "README Successfully generated!"
 7. In the same folder you may look for the generatedREADME.md that was created.
 
 ## Video
